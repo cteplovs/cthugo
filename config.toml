@@ -1,4 +1,4 @@
 baseURL = 'http://hugo.christeplovs.com/'
 languageCode = 'en-us'
-title = 'Hugo Site'
+title = "Dr. Chris's Blog"
 theme= "hugo-tania"
