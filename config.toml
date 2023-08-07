@@ -1,4 +1,4 @@
-baseURL = 'http://npraidgaf.christeplovs.com/'
+baseURL = 'http://blog.christeplovs.com/'
 languageCode = 'en-us'
-title = "N.P.R.A.I.D.G.A.F."
+title = "Chris Teplovs, Ph.D."
 theme= "hugo-tania"
