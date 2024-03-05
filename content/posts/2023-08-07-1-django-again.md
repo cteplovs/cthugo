@@ -1,7 +1,7 @@
 ---
 title: "2023 08 07 1 Django Again"
 date: 2023-08-07T08:45:18-04:00
-draft: true
+draft: false
 author: Dr. Chris
 ---
 
