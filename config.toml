@@ -1,4 +1,4 @@
 baseURL = 'http://blog.christeplovs.com/'
 languageCode = 'en-us'
 title = "Chris Teplovs, Ph.D."
-theme= "hugo-tania"
+theme= "hugo-tania-mod"
